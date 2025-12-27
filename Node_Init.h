@@ -14,7 +14,7 @@ typedef struct Employee
     long long id;
     int wages;
 }Employee;
-
+//test
 typedef struct Node
 {
     Employee data;
