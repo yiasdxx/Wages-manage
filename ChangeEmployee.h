@@ -19,5 +19,5 @@ void ChangeEmployee(Node *head,int num)
     else
         printf("未找到此人！\n");
 }
-
+//test
 #endif
